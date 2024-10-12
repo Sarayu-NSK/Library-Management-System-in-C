@@ -9,6 +9,7 @@ There are two main modules:
 •student or the user module
 
 1.ADMIN MODULE
+
 1.1 librarian login module:
 This module is for logging in by administrator(librarian). The librarian 
 enters the administrative credentials (Credentials are created when 
@@ -27,6 +28,7 @@ librarian. The librarian can view the available books and modify any
 details of the book and even delete any book records.
 
 2.USER MODULE
+
 2.1 New user registration module:
 This module is for registration of Student(user). The student first 
 registers with his name, email-id and he will be provided with a 
